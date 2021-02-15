@@ -18,3 +18,24 @@ while (x <= numberOfToppings){
   x++;
 }
 
+for (let i = 2; i <= numberOfToppings; i++){
+  if (x % 2 == 0)
+  console.log(i);
+  i++;
+}
+
+for (let i = 1; i <= numberOfToppings; i++){
+  if (x % 2 === 0)
+  console.log(i);
+  i++;
+
+for (let i = 1; i <=numberOfToppings; i++){
+  if (i += 2);
+  console.log(i);
+  i++;
+}
+let numberOfToppings = 5;
+for (let i = 1; i <=numberOfToppings; i++){
+  if (i += 1);
+  console.log(i);
+}
