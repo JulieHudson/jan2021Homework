@@ -1,0 +1,35 @@
+* {
+  background-color: rgb(250, 232, 232);
+  margin: auto;
+  padding: 20px;
+  width: auto;
+  height: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+body {
+  border: black 1px;
+  border-style: 1px solid black;
+}
+ /* No idea where the 1px solid black border went. */
+
+div img {
+  width: 500 px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: black;
+  border-inline: 1px;
+}
+/* This border won't show up either. */
+
+main div {
+  color: black;
+}
+
+ul {
+line-height: 0;
+border-spacing: 2px;
+text-decoration: none;
+}

@@ -40,7 +40,16 @@ function greetCustomer(){
   servePizza(cookedPizza);
   return pizza;
 
-
+// function addListElementToString(string, list){
+//   for (let i = 0; i < list.length; i++){
+//     if (list.length === 1){
+//       string =+ `${list[i]}.`
+//     }
+//   }
+// }
+// function checkForToppings(toppings){
+//   if (!toppings);
+// }
 
 function greetCustomer(){
   getPizzaOrder;
